@@ -1,0 +1,22 @@
+header{
+    background-color: teal;
+    height: 120px;
+}
+
+.titulo {
+    font-size: 45px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0;
+}
+
+.bloco {
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer{
+    background-color: teal;
+    height: 120px
+}
